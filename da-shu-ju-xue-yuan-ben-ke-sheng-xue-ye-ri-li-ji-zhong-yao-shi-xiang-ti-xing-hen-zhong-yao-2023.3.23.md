@@ -62,9 +62,7 @@ description: 整理自——李莘
 
 ## 大三春季学期
 
-| 1-2月 |   3月  |     4月    |   5月   |  6月 |
-| :--: | :---: | :-------: | :----: | :-: |
-|      | 走进实验室 | 考研、留学经验分享 | 导师团队介绍 |     |
+<table><thead><tr><th width="122" align="center">1-2月</th><th align="center">3月</th><th align="center">4月</th><th align="center">5月</th><th align="center">6月</th></tr></thead><tbody><tr><td align="center"></td><td align="center">走进实验室</td><td align="center">考研、留学经验分享</td><td align="center">导师团队介绍</td><td align="center"></td></tr></tbody></table>
 
 ### <mark style="color:red;">重要事项提醒</mark>
 
@@ -82,9 +80,7 @@ description: 整理自——李莘
 
 ## 大四秋季学期
 
-| 7-8月 |  9月 | 10月 | 11月 |      12月      |
-| :--: | :-: | :-: | :-: | :-----------: |
-| 推免工作 |     |     |     | 考研冲刺（复习、模拟考等） |
+<table><thead><tr><th width="143" align="center">7-8月</th><th width="144" align="center">9月</th><th align="center">10月</th><th align="center">11月</th><th align="center">12月</th></tr></thead><tbody><tr><td align="center">推免工作</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center">考研冲刺（复习、模拟考等）</td></tr></tbody></table>
 
 ### <mark style="color:red;">重要事项提醒</mark>
 
@@ -100,9 +96,7 @@ description: 整理自——李莘
 
 ## 大四春季学期
 
-| 1-2月 |      3月      |  4月 |    5月    |  6月  |
-| :--: | :----------: | :-: | :------: | :--: |
-|      | 求职经验分享、简历修改等 |     | 大四专场据峰咖会 | 毕业典礼 |
+<table><thead><tr><th width="143" align="center">1-2月</th><th width="128" align="center">3月</th><th align="center">4月</th><th align="center">5月</th><th align="center">6月</th></tr></thead><tbody><tr><td align="center"></td><td align="center">求职经验分享、简历修改等</td><td align="center"></td><td align="center">大四专场据峰咖会</td><td align="center">毕业典礼</td></tr></tbody></table>
 
 ### <mark style="color:red;">重要事项提醒</mark>
 
