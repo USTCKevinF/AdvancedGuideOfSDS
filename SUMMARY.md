@@ -46,14 +46,7 @@
 
 ## 进阶篇
 
-* [经验分享会视频整理（2023.5.13更新）](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/README.md)
-  * [本科就业——赵天翔学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/ben-ke-jiu-ye-zhao-tian-xiang-xue-chang-fen-xiang-shi-pin.md)
-  * [课程学习+实习+科研——桂栋南学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/ke-cheng-xue-xi-+-shi-xi-+-ke-yan-gui-dong-nan-xue-chang-fen-xiang-shi-pin.md)
-  * [保研与课内学习经验分享——李莘学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/bao-yan-yu-ke-nei-xue-xi-jing-yan-fen-xiang-li-shen-xue-chang-fen-xiang-shi-pin.md)
-  * [留学飞跃经验——顾言午学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/liu-xue-fei-yue-jing-yan-gu-yan-wu-xue-chang-fen-xiang-shi-pin.md)
-  * [2023年大数据学院出国分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-chu-guo-fen-xiang-hui.md)
-  * [2023年大数据学院考研分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-kao-yan-fen-xiang-hui.md)
-  * [2023年大数据学院实习秋招分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-shi-xi-qiu-zhao-fen-xiang-hui.md)
+* [大数据学院本科生学业日历及重要事项提醒（很重要）（2023.3.23更新）](jin-jie-pian/da-shu-ju-xue-yuan-ben-ke-sheng-xue-ye-ri-li-ji-zhong-yao-shi-xiang-ti-xing-hen-zhong-yao-2023.3.23.md)
 * [出国（更新中）](jin-jie-pian/chu-guo-geng-xin-zhong.md)
 * [保研（更新中）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
 * [考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
@@ -77,10 +70,14 @@
   * [神经物理学与神经生理学实验室——毕国强教授与刘北明教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shen-jing-wu-li-xue-yu-shen-jing-sheng-li-xue-shi-yan-shi-bi-guo-qiang-jiao-shou-yu-liu-bei-ming-jia.md)
   * [Wen Lab——温泉教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/wen-lab-wen-quan-jiao-shou-ke-ti-zu.md)
   * [高性能计算物理化学实验室——胡伟教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/gao-xing-neng-ji-suan-wu-li-hua-xue-shi-yan-shi-hu-wei-jiao-shou-ke-ti-zu.md)
-
-***
-
-* [大数据学院本科生学业日历及重要事项提醒（很重要）（2023.3.23更新）](da-shu-ju-xue-yuan-ben-ke-sheng-xue-ye-ri-li-ji-zhong-yao-shi-xiang-ti-xing-hen-zhong-yao-2023.3.23.md)
+* [经验分享会视频整理（2023.5.13更新）](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/README.md)
+  * [本科就业——赵天翔学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/ben-ke-jiu-ye-zhao-tian-xiang-xue-chang-fen-xiang-shi-pin.md)
+  * [课程学习+实习+科研——桂栋南学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/ke-cheng-xue-xi-+-shi-xi-+-ke-yan-gui-dong-nan-xue-chang-fen-xiang-shi-pin.md)
+  * [保研与课内学习经验分享——李莘学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/bao-yan-yu-ke-nei-xue-xi-jing-yan-fen-xiang-li-shen-xue-chang-fen-xiang-shi-pin.md)
+  * [留学飞跃经验——顾言午学长分享视频](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/liu-xue-fei-yue-jing-yan-gu-yan-wu-xue-chang-fen-xiang-shi-pin.md)
+  * [2023年大数据学院出国分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-chu-guo-fen-xiang-hui.md)
+  * [2023年大数据学院考研分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-kao-yan-fen-xiang-hui.md)
+  * [2023年大数据学院实习秋招分享会](jin-jie-pian/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-shi-xi-qiu-zhao-fen-xiang-hui.md)
 
 ## 经验篇
 
