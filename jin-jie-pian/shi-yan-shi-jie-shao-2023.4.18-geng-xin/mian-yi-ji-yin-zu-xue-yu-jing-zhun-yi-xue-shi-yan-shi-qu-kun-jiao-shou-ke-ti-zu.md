@@ -12,7 +12,7 @@
 
 **微信公众号**
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ## 研究方向
 
