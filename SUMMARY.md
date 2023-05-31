@@ -4,6 +4,7 @@
 * [第二版序](di-er-ban-xu.md)
 * [欢迎词](huan-ying-ci.md)
 * [😉 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
+* [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
 
 ## 培养方案解析
 
@@ -51,10 +52,10 @@
 * [出国（更新中）](jin-jie-pian/chu-guo-geng-xin-zhong.md)
 * [保研（更新中）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
 * [考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
-* [实习 & 工作（更新中）](jin-jie-pian/shi-xi-geng-xin-zhong/README.md)
-  * [🧐 什么是实习](jin-jie-pian/shi-xi-geng-xin-zhong/shi-mo-shi-shi-xi.md)
-  * [😍 怎么找实习](jin-jie-pian/shi-xi-geng-xin-zhong/zen-mo-zhao-shi-xi.md)
-  * [Q & A](jin-jie-pian/shi-xi-gong-zuo-geng-xin-zhong/q-and-a.md)
+* [实习 & 工作（2023.5.31更新）](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/README.md)
+  * [🧐 什么是实习](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/shi-mo-shi-shi-xi.md)
+  * [😍 怎么找实习](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/zen-mo-zhao-shi-xi.md)
+  * [Q & A](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/q-and-a.md)
 * [🤔 咨询实验室时应当关心的十个问题（2023.3.31更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
 * [😄 实验室介绍（2023.4.18更新）](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/README.md)
   * [BDAA\认知智能全国重点实验室——陈恩红教授实验室](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/bdaa-ren-zhi-zhi-neng-quan-guo-zhong-dian-shi-yan-shi-chen-en-hong-jiao-shou-shi-yan-shi.md)
@@ -83,7 +84,7 @@
 
 ## 经验篇
 
-* [学长学姐说（2023.3.24更新）](jing-yan-pian/xue-chang-xue-jie-shuo-2023.3.24-geng-xin/README.md)
+* [🥳 学长学姐说（2023.3.24更新）](jing-yan-pian/xue-chang-xue-jie-shuo-2023.3.24-geng-xin/README.md)
   * [大数据学院2019级本科生顾言午](jing-yan-pian/xue-chang-xue-jie-shuo-2023.3.24-geng-xin/da-shu-ju-xue-yuan-2019-ji-ben-ke-sheng-gu-yan-wu.md)
   * [大数据学院2018级本科生毛星茏](jing-yan-pian/xue-chang-xue-jie-shuo-2023.3.24-geng-xin/da-shu-ju-xue-yuan-2018-ji-ben-ke-sheng-mao-xing-long.md)
   * [大数据学院2018级本科生吴颖馨](jing-yan-pian/xue-chang-xue-jie-shuo-2023.3.24-geng-xin/da-shu-ju-xue-yuan-2018-ji-ben-ke-sheng-wu-ying-xin.md)
