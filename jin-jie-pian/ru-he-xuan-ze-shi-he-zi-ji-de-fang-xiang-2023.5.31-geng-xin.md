@@ -24,7 +24,7 @@ description: By——顾言午
 
 假设你喜欢推荐系统，那么你可能会选择大数据的A老师，之后你便可以打开老师的主页，去了解了解老师进一步的情况。对于科研方向信息，也可以去老师的主页查看ta发表过的论文。**也可以去谷歌学术（google scholar）搜索老师的名字，直接查看老师发表的论文原文。**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 如上图所示，每位老师的谷歌学术界面都会有该老师发表论文的详细信息，引用量越高证明该论文越有影响力，**只需要阅读论文的abstract和introduction部分就能了解论文的主要内容，进而了解老师的主要研究方向**。
 
