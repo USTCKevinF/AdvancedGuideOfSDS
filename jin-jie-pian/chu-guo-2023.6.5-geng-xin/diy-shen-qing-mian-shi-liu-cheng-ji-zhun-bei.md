@@ -14,10 +14,6 @@ description: By——19级少院金小龙
 
 * 恭喜你获得了面试机会！**放轻松，be honest and confident，PhD面试归根到底就是一个确认相互是否match的过程，**just enjoy the talk and the interview!
 
-> **点赞关注私信我获得面试问题word文字版哦**
-
-> **如果内容对您有帮助，请帮我点个赞，这对我有很大的鼓励。欢迎关注，后续还会更新一系列相关文章。**
-
 ## 📖主要内容
 
 ### **如何准备面试？**
