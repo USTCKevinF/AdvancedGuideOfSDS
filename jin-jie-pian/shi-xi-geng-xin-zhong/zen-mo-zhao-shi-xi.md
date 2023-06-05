@@ -1,5 +1,5 @@
 ---
-description: By——冯文俊
+description: By——20级大数据冯文俊
 ---
 
 # 😍 怎么找实习
