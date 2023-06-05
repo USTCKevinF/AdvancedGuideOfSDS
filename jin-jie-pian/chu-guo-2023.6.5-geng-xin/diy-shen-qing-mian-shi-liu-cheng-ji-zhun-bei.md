@@ -1,5 +1,5 @@
 ---
-description: By——金小龙
+description: By——19级少院金小龙
 ---
 
 # DIY申请-面试流程及准备
