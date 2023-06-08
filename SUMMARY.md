@@ -9,6 +9,7 @@
 ## 培养方案解析
 
 * [大二秋季学期](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/README.md)
+  * [数据分析与实践（专业核心）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/shu-ju-fen-xi-yu-shi-jian-zhuan-ye-he-xin.md)
   * [复变函数B （专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/fu-bian-han-shub-zhuan-ye-ji-chu.md)
   * [计算系统概论（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-suan-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
   * [离散数学（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/li-san-shu-xue-zhuan-ye-ji-chu.md)
@@ -19,7 +20,6 @@
   * [人工智能基础（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ren-gong-zhi-neng-ji-chu-zhuan-ye-xuan-xiu.md)
   * [随机过程B（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/sui-ji-guo-chengbzhuan-ye-ji-chu.md)
   * [计算方法（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ji-suan-fang-fa-zhuan-ye-ji-chu.md)
-  * [数据分析与实践（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-fen-xi-yu-shi-jian-zhuan-ye-he-xin.md)
   * [数理方程B（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-li-fang-chengbzhuan-ye-xuan-xiu.md)
   * [电子线路（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/dian-zi-xian-lu-zhuan-ye-xuan-xiu.md)
   * [信号与系统（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/xin-hao-yu-xi-tong-zhuan-ye-xuan-xiu.md)
