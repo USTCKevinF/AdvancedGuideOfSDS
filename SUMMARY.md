@@ -42,6 +42,7 @@
   * [信息论A（专业选修）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/xin-xi-lunazhuan-ye-xuan-xiu.md)
   * [自然语言处理（专业选修）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/zi-ran-yu-yan-chu-li-zhuan-ye-xuan-xiu.md)
   * [非参数统计（专业选修）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/fei-can-shu-tong-ji-zhuan-ye-xuan-xiu.md)
+  * [数字图像处理（专业选修）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/fei-can-shu-tong-ji-zhuan-ye-xuan-xiu-1.md)
 * [大四秋季学期](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/README.md)
   * [大数据系统及综合实验（专业核心）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/da-shu-ju-xi-tong-ji-zong-he-shi-yan-zhuan-ye-he-xin.md)
 
@@ -71,7 +72,7 @@
   * [数据科学实验室（LDS）——何向南教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shu-ju-ke-xue-shi-yan-shi-lds-he-xiang-nan-jiao-shou-ke-ti-zu.md)
   * [安徽应用数学中心（应用数学安徽省重点实验室）——杨周旺教授实验室](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/an-hui-ying-yong-shu-xue-zhong-xin-ying-yong-shu-xue-an-hui-sheng-zhong-dian-shi-yan-shi-yang-zhou-w.md)
   * [数据智能与几何算法实验室——丁虎教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shu-ju-zhi-neng-yu-ji-he-suan-fa-shi-yan-shi-ding-hu-jiao-shou-ke-ti-zu.md)
-  * [MIRA  Lab——王杰教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/mira-lab-wang-jie-jiao-shou-ke-ti-zu.md)
+  * [MIRA Lab——王杰教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/mira-lab-wang-jie-jiao-shou-ke-ti-zu.md)
   * [iCLaS-现代物流与供应链安徽省重点实验室——余玉刚教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/iclas-xian-dai-wu-liu-yu-gong-ying-lian-an-hui-sheng-zhong-dian-shi-yan-shi-yu-yu-gang-jiao-shou-ke.md)
   * [泛在无源物联网实验室——龚伟教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/fan-zai-wu-yuan-wu-lian-wang-shi-yan-shi-gong-wei-jiao-shou-ke-ti-zu.md)
   * [精密普适实验室（Precise Pervasive Lab）——程敬原教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/jing-mi-pu-shi-shi-yan-shi-precise-pervasive-lab-cheng-jing-yuan-jiao-shou-ke-ti-zu.md)
