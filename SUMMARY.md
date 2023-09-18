@@ -59,9 +59,10 @@
   * [低成本-托福听力训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-ting-li-xun-lian-fang-fa-yu-zi-yuan.md)
   * [低成本-托福写作训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-xie-zuo-xun-lian-fang-fa-yu-zi-yuan.md)
   * [低成本-托福阅读训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-yue-du-xun-lian-fang-fa-yu-zi-yuan.md)
-* [🎓 保研（2023.6.3更新）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
+* [🎓 保研（2023.9.18更新）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
   * [💯 保研关键时间节点](jin-jie-pian/bao-yan-2023.6.3-geng-xin/bao-yan-guan-jian-shi-jian-jie-dian.md)
   * [‼ 一篇文章读懂保研（必须熟悉）](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-1.md)
+  * [🔊 别人不会告诉你的保研TIPS](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-2.md)
 * [💻 实习 & 工作（2023.5.31更新）](jin-jie-pian/shi-xi-geng-xin-zhong/README.md)
   * [🧐 什么是实习](jin-jie-pian/shi-xi-geng-xin-zhong/shi-mo-shi-shi-xi.md)
   * [😍 怎么找实习](jin-jie-pian/shi-xi-geng-xin-zhong/zen-mo-zhao-shi-xi.md)
@@ -84,6 +85,7 @@
   * [神经物理学与神经生理学实验室——毕国强教授与刘北明教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shen-jing-wu-li-xue-yu-shen-jing-sheng-li-xue-shi-yan-shi-bi-guo-qiang-jiao-shou-yu-liu-bei-ming-jia.md)
   * [Wen Lab——温泉教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/wen-lab-wen-quan-jiao-shou-ke-ti-zu.md)
   * [高性能计算物理化学实验室——胡伟教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/gao-xing-neng-ji-suan-wu-li-hua-xue-shi-yan-shi-hu-wei-jiao-shou-ke-ti-zu.md)
+* [Page 1](jin-jie-pian/page-1.md)
 
 ## 经验篇
 
@@ -95,8 +97,7 @@
   * [（科研）大数据学院2018级博士生李徵](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/ke-yan-da-shu-ju-xue-yuan-2018-ji-bo-shi-sheng-li-zhi.md)
   * [（MSRA联培）大数据学院2019级本科生桂栋南](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/msra-lian-pei-da-shu-ju-xue-yuan-2019-ji-ben-ke-sheng-gui-dong-nan.md)
   * [（工作）信息学院AI英才班2018级本科生赵天翔](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/gong-zuo-xin-xi-xue-yuan-ai-ying-cai-ban-2018-ji-ben-ke-sheng-zhao-tian-xiang.md)
-* [据峰咖会](jing-yan-pian/ju-feng-ka-hui/README.md)
-  * [2022年度据峰咖会](jing-yan-pian/ju-feng-ka-hui/2022-nian-du-ju-feng-ka-hui.md)
+* [我们的四年](jing-yan-pian/wo-men-de-si-nian.md)
 
 ## 附录
 
@@ -108,3 +109,5 @@
   * [2023年大数据学院出国分享会](fu-lu/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-chu-guo-fen-xiang-hui.md)
   * [2023年大数据学院考研分享会](fu-lu/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-kao-yan-fen-xiang-hui.md)
   * [2023年大数据学院实习秋招分享会](fu-lu/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-shi-xi-qiu-zhao-fen-xiang-hui.md)
+* [据峰咖会](fu-lu/ju-feng-ka-hui/README.md)
+  * [2022年度据峰咖会](fu-lu/ju-feng-ka-hui/2022-nian-du-ju-feng-ka-hui.md)

@@ -1,5 +1,5 @@
 ---
-description: By——冯文俊、花昌诚
+description: By——
 ---
 
 # ‼ 一篇文章读懂保研（必须熟悉）
