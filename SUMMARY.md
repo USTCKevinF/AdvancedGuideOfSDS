@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [第二版序](di-er-ban-xu.md)
 * [欢迎词](huan-ying-ci.md)
-* [😉 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
+* [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
 
 ## 培养方案解析
@@ -85,7 +85,6 @@
   * [神经物理学与神经生理学实验室——毕国强教授与刘北明教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shen-jing-wu-li-xue-yu-shen-jing-sheng-li-xue-shi-yan-shi-bi-guo-qiang-jiao-shou-yu-liu-bei-ming-jia.md)
   * [Wen Lab——温泉教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/wen-lab-wen-quan-jiao-shou-ke-ti-zu.md)
   * [高性能计算物理化学实验室——胡伟教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/gao-xing-neng-ji-suan-wu-li-hua-xue-shi-yan-shi-hu-wei-jiao-shou-ke-ti-zu.md)
-* [Page 1](jin-jie-pian/page-1.md)
 
 ## 经验篇
 
@@ -97,7 +96,7 @@
   * [（科研）大数据学院2018级博士生李徵](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/ke-yan-da-shu-ju-xue-yuan-2018-ji-bo-shi-sheng-li-zhi.md)
   * [（MSRA联培）大数据学院2019级本科生桂栋南](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/msra-lian-pei-da-shu-ju-xue-yuan-2019-ji-ben-ke-sheng-gui-dong-nan.md)
   * [（工作）信息学院AI英才班2018级本科生赵天翔](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/gong-zuo-xin-xi-xue-yuan-ai-ying-cai-ban-2018-ji-ben-ke-sheng-zhao-tian-xiang.md)
-* [我们的四年](jing-yan-pian/wo-men-de-si-nian.md)
+* [🎥 我们的四年](jing-yan-pian/wo-men-de-si-nian.md)
 
 ## 附录
 
