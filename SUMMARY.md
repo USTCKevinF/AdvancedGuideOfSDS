@@ -1,8 +1,8 @@
 # Table of contents
 
-* [前言](README.md)
-* [第二版序](di-er-ban-xu.md)
-* [欢迎词](huan-ying-ci.md)
+* [1⃣ 前言](README.md)
+* [2⃣ 第二版序](di-er-ban-xu.md)
+* [🥳 欢迎词](huan-ying-ci.md)
 * [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
 
