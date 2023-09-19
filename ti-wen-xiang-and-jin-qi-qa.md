@@ -6,7 +6,7 @@ description: 尽情交流吧！
 
 如果你有什么想问的问题或者对指南有什么建议，请通过这个链接或者扫描下图二维码尽情交流吧！~~不要问数学题怎么做~~，我们会寻找相关方向的前辈们尽力为大家进行回答。
 
-{% embed url="https://pome.ink/Advance1" %}
+{% embed url="https://pome.vip/Advance1" %}
 
 <figure><img src=".gitbook/assets/B2E323D9C86FF3AACA9ADA2C23AD8D2A.png" alt="" width="375"><figcaption></figcaption></figure>
 
