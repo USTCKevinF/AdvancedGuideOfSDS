@@ -66,7 +66,7 @@
 * [💻 实习 & 工作（2023.5.31更新）](jin-jie-pian/shi-xi-geng-xin-zhong/README.md)
   * [🧐 什么是实习](jin-jie-pian/shi-xi-geng-xin-zhong/shi-mo-shi-shi-xi.md)
   * [😍 怎么找实习](jin-jie-pian/shi-xi-geng-xin-zhong/zen-mo-zhao-shi-xi.md)
-  * [Q & A](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/q-and-a.md)
+  * [❓ Q & A](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/q-and-a.md)
 * [🖊 考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
 * [🤔 咨询实验室时应当关心的十个问题（2023.3.31更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
 * [😄 实验室介绍（2023.4.18更新）](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/README.md)
