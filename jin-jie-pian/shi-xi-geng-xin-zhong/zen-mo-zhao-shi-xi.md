@@ -20,23 +20,23 @@ description: By——20级大数据冯文俊
 
 ### 个人信息
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 这里便是你的个人基本情况，不多解释
 
 ### 教育背景
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 这里便是你的教育背景，通过这里的信息，企业便会了解应聘者来自什么学校，什么专业，什么时候毕业、研究方向是什么等信息。
 
 ### 实习\项目经历
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 这一块可以说是最重要的内容，也是企业最关心的部分，它代表了你的实践能力。所谓项目经历，就是指你做了哪些和该岗位工作相关的项目，假设你投递的是前端开发，那么在大二学过的数据库的课程设计便是一个对口的项目。假设你投递的是C++开发，ics课的labA labS便是对口的项目。~~但是不客气的讲，这些课后作业其实都属于小玩具。~~我们随便找一个前端开发的实习岗位。可以看看岗位的技术要求
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 如果你准备找一份实习，提前做项目是很重要的，网上有很多相关的开源项目可供你选择，同时你科的大创项目也是一个很好的资源。
 
@@ -46,7 +46,7 @@ description: By——20级大数据冯文俊
 
 
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 内推
 

@@ -6,7 +6,7 @@ description: 学分：3.5
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>课程教材</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>课程教材</p></figcaption></figure>
 
 </div>
 

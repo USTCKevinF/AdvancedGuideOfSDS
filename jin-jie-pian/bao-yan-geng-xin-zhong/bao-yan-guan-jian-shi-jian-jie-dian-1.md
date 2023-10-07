@@ -52,8 +52,8 @@ description: By——冯文俊
 * 强com：com为committee的缩写，强com院所意味着该院所的入营和优营审核都是由学院严格把控的，**大数据学院相对偏强com，如果机试考砸了进了wl的话可能就需要等前面的人放鸽子等递补了。**
 * 弱com：弱com院所与强com相反，考核工作学院不多过问，导师权利较大，只要你和导师联系好，取得了导师的offer他就可以捞你。对于入营很难的一些学校，你也可以通过先陶瓷导师，得到导师认可之后，经导师捞进营。
 * 绿群：全国最大的CS保研交流群，也是各种信息流通的**一手渠道**。必加，同时绿群的官方github组织[https://github.com//CS-BAOYAN](https://github.com/CS-BAOYAN)
-* ![](<../../.gitbook/assets/image (20).png>)
+* ![](<../../.gitbook/assets/image (20) (1).png>)
 * 双选：双选是导师和学生双向选择的过程。大数据的夏令营在发放优营后会要求你完成双选过程，也就是需要你拿到条件三所说的offer。大数据学院的双选流程如下图，这一过程的目的就是保证你同时拿到条件二和条件三的offer。
 
-<img src="../../.gitbook/assets/image (22).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (22) (1).png" alt="" data-size="original">
 

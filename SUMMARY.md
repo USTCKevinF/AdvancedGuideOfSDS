@@ -48,9 +48,8 @@
 
 ## 进阶篇
 
-* [😎 如何选择适合自己的方向and如何进组(2023.5.31更新）](jin-jie-pian/ru-he-xuan-ze-shi-he-zi-ji-de-fang-xiang-and-ru-he-jin-zu-2023.5.31-geng-xin.md)
-* [🤩 大数据学院本科生学业日历及重要事项提醒（很重要）（2023.3.23更新）](jin-jie-pian/da-shu-ju-xue-yuan-ben-ke-sheng-xue-ye-ri-li-ji-zhong-yao-shi-xiang-ti-xing-hen-zhong-yao-2023.3.23.md)
-* [🛫 出国（2023.6.5更新）](jin-jie-pian/chu-guo-geng-xin-zhong.md)
+* [🤩 大数据学院本科生学业日历及重要事项提醒（很重要）](jin-jie-pian/da-shu-ju-xue-yuan-ben-ke-sheng-xue-ye-ri-li-ji-zhong-yao-shi-xiang-ti-xing-hen-zhong-yao-2023.3.23.md)
+* [🛫 出国](jin-jie-pian/chu-guo-geng-xin-zhong.md)
   * [DIY申请 个人学术主页搭建](jin-jie-pian/chu-guo-2023.6.5-geng-xin/diy-shen-qing-ge-ren-xue-shu-zhu-ye-da-jian.md)
   * [DIY申请-面试流程及准备](jin-jie-pian/chu-guo-2023.6.5-geng-xin/diy-shen-qing-mian-shi-liu-cheng-ji-zhun-bei.md)
   * [DIY申请-关于CV](jin-jie-pian/chu-guo-2023.6.5-geng-xin/diy-shen-qing-guan-yu-cv.md)
@@ -67,6 +66,11 @@
   * [🧐 什么是实习](jin-jie-pian/shi-xi-geng-xin-zhong/shi-mo-shi-shi-xi.md)
   * [😍 怎么找实习](jin-jie-pian/shi-xi-geng-xin-zhong/zen-mo-zhao-shi-xi.md)
   * [❓ Q & A](jin-jie-pian/shi-xi-gong-zuo-2023.5.31-geng-xin/q-and-a.md)
+* [🔬 科研（2023.10.17更新）](jin-jie-pian/ke-yan-2023.10.17-geng-xin/README.md)
+  * [😮 如何选择适合自己的方向and如何进组](jin-jie-pian/ke-yan-2023.10.17-geng-xin/ru-he-xuan-ze-shi-he-zi-ji-de-fang-xiang-and-ru-he-jin-zu-2023.5.31-geng-xin.md)
+  * [💎 学长学姐的科研真经](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/README.md)
+    * [从idea到论文——从0开始一段科研](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/cong-idea-dao-lun-wen-cong-0-kai-shi-yi-duan-ke-yan.md)
+    * [论文写作技巧](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/lun-wen-xie-zuo-ji-qiao.md)
 * [🖊 考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
 * [🤔 咨询实验室时应当关心的十个问题（2023.3.31更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
 * [😄 实验室介绍（2023.4.18更新）](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/README.md)

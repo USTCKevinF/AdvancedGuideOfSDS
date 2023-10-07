@@ -8,6 +8,6 @@ description: ——渐入佳境
 
 下图是阿里巴巴的一些岗位的面试题，从中可以找到大量计网、算法、操作系统的相关知识。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 从大三开始，选修课的数量增多，大家选择的空间也在慢慢变多，建议大家合理利用本手册和评课社区进行课程的修读。(\*^▽^\*)

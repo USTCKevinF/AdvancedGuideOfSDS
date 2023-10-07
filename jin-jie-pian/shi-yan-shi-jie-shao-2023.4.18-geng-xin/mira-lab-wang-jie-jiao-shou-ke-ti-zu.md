@@ -1,4 +1,4 @@
-# MIRA  Lab——王杰教授课题组
+# MIRA Lab——王杰教授课题组
 
 ## 整体介绍
 
@@ -16,7 +16,7 @@ MIRA Lab 负责人王杰教授现任中国科学技术大学教授，博士生�
 
 **微信公众号**
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ## 研究方向
 
