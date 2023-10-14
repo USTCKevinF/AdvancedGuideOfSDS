@@ -58,7 +58,7 @@
   * [低成本-托福听力训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-ting-li-xun-lian-fang-fa-yu-zi-yuan.md)
   * [低成本-托福写作训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-xie-zuo-xun-lian-fang-fa-yu-zi-yuan.md)
   * [低成本-托福阅读训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-yue-du-xun-lian-fang-fa-yu-zi-yuan.md)
-* [🎓 保研（2023.9.18更新）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
+* [🎓 保研（2023.10.14更新）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
   * [💯 保研关键时间节点](jin-jie-pian/bao-yan-2023.6.3-geng-xin/bao-yan-guan-jian-shi-jian-jie-dian.md)
   * [‼ 一篇文章读懂保研（必须熟悉）](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-1.md)
   * [🔊 别人不会告诉你的保研TIPS](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-2.md)
