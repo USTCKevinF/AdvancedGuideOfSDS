@@ -6,6 +6,10 @@
 * [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
 
+## ☕ 话题
+
+* [如果给你一颗后悔药...（筹备中）](hua-ti/ju-feng-ka-hui.md)
+
 ## 培养方案解析
 
 * [大二秋季学期](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/README.md)
