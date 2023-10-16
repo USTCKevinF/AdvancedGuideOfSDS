@@ -72,7 +72,7 @@
     * [从idea到论文——从0开始一段科研](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/cong-idea-dao-lun-wen-cong-0-kai-shi-yi-duan-ke-yan.md)
     * [论文写作技巧](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/lun-wen-xie-zuo-ji-qiao.md)
 * [🖊 考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
-* [🤔 咨询实验室时应当关心的十个问题（2023.3.31更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
+* [🤔 选择实验室时应当关心的十个问题（2023.10.16更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
 * [😄 实验室介绍（2023.4.18更新）](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/README.md)
   * [BDAA\认知智能全国重点实验室——陈恩红教授实验室](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/bdaa-ren-zhi-zhi-neng-quan-guo-zhong-dian-shi-yan-shi-chen-en-hong-jiao-shou-shi-yan-shi.md)
   * [数据科学实验室（LDS）——何向南教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shu-ju-ke-xue-shi-yan-shi-lds-he-xiang-nan-jiao-shou-ke-ti-zu.md)
