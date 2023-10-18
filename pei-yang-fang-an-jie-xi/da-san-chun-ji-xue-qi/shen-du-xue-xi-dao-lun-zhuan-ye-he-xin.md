@@ -4,8 +4,6 @@ description: 学分：3.0
 
 # 深度学习导论（专业核心）
 
-<figure><img src="../../.gitbook/assets/深度学习.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure>
-
 ## 课程简介
 
 本门课自2019级开始改为大数据学院的必修学科群基础课。主要内容包括DNN相关、CNN相关、参数优化（调参技巧）、RNN相关、Attention机制及相关模型（Transformer、BERT）、GCN相关、无监督模型尤其是生成式模型（VAE、GAN）等内容。可以说课程内容涵盖了CV、NLP等各个应用领域，也涵盖了分类、回归、生成等各路任务，讲授的内容也与AI的前沿研究关系紧密（比如xxFormer、xxGAN）。但是由于课程全而较为深入，所以讲授的速度较快，对于没有做过的方向可能上手有一定理解的难度。
@@ -20,17 +18,31 @@ description: 学分：3.0
 
 ## 与后续课程的联系
 
-无本科阶段后续课程，为之后AI相关的科研研究打好基础。
+人类在AI领域的研究早已进入深度学习时代，课程内容介绍的CNN、RNN、Transformer、GCN、GAN等模型是AI领域基石一般的存在，无数研究都是在这些基石模型的基础上展开的，其重要性不言而喻
 
 ## 目录
 
 <details>
 
-<summary>TODO</summary>
+<summary>深度学习课程教学大纲</summary>
 
+DNN
 
+CNN
 
+Model Training
 
+Optimization
+
+RNN
+
+GNN
+
+attention
+
+LLM
+
+Diffusion
 
 </details>
 
