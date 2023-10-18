@@ -2,7 +2,7 @@
 description: 整理自——19级大数据李莘
 ---
 
-# 🤩 大数据学院本科生学业日历及重要事项提醒（很重要）（2023.3.23更新）
+# 🤩 大数据学院本科生学业日历及重要事项提醒（很重要）
 
 ## 大二秋季学期
 
@@ -62,7 +62,7 @@ description: 整理自——19级大数据李莘
 
 ## 大三春季学期
 
-<table><thead><tr><th width="122" align="center">1-2月</th><th align="center">3月</th><th align="center">4月</th><th align="center">5月</th><th align="center">6月</th></tr></thead><tbody><tr><td align="center"></td><td align="center">走进实验室</td><td align="center">考研、留学经验分享</td><td align="center">导师团队介绍</td><td align="center"></td></tr></tbody></table>
+<table><thead><tr><th width="122" align="center">1-2月</th><th align="center">3月</th><th align="center">4月</th><th align="center">5月</th><th align="center">6月</th></tr></thead><tbody><tr><td align="center"></td><td align="center">走进实验室</td><td align="center">考研、留学经验分享</td><td align="center">导师团队介绍</td><td align="center">各大单位夏令营陆续开启</td></tr></tbody></table>
 
 ### <mark style="color:red;">重要事项提醒</mark>
 
