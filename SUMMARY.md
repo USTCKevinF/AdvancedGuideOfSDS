@@ -108,7 +108,8 @@
   * [（科研）大数据学院2018级博士生李徵](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/ke-yan-da-shu-ju-xue-yuan-2018-ji-bo-shi-sheng-li-zhi.md)
   * [（MSRA联培）大数据学院2019级本科生桂栋南](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/msra-lian-pei-da-shu-ju-xue-yuan-2019-ji-ben-ke-sheng-gui-dong-nan.md)
   * [（工作）信息学院AI英才班2018级本科生赵天翔](jing-yan-pian/xue-chang-xue-jie-shuo-2023.5.31-geng-xin/gong-zuo-xin-xi-xue-yuan-ai-ying-cai-ban-2018-ji-ben-ke-sheng-zhao-tian-xiang.md)
-* [🎥 我们的四年（筹备中）](jing-yan-pian/wo-men-de-si-nian-chou-bei-zhong.md)
+* [🎥 我们的四年（更新中）](jing-yan-pian/wo-men-de-si-nian-chou-bei-zhong/README.md)
+  * [从科大到燕园——我的保外经历与大学体悟](jing-yan-pian/wo-men-de-si-nian-chou-bei-zhong/cong-ke-da-dao-yan-yuan-wo-de-bao-wai-jing-li-yu-da-xue-ti-wu.md)
 
 ## 附录
 
