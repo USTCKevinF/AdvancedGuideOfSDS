@@ -9,6 +9,7 @@
 ## ☕ 话题
 
 * [如果给你一颗后悔药...（更新中）](hua-ti/ju-feng-ka-hui.md)
+* [从科大到燕园——我的保外经历与大学体悟](hua-ti/cong-ke-da-dao-yan-yuan-wo-de-bao-wai-jing-li-yu-da-xue-ti-wu.md)
 
 ## 培养方案解析
 
