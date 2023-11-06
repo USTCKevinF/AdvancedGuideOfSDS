@@ -30,9 +30,7 @@ description: 尽情交流吧！
 
 **Q：学长学姐，我想请问一下泛在无源物联网实验室科研氛围怎么样啊？在实验室能学到东西嘛？**
 
-**A：**指南编委组暂时没有在此实验室的学长学姐，但是指南编委组搜集到了实验室的招生广告，从实验室本科毕业生去向和能得到亲自指导这一点来看还是很不错的，值得去深入了解一下，如果你对此实验室所作方向感兴趣的话可以去联系一下图中广告的学长哦\~如何了解实验室的方向可以参考文章：
+**A：**指南编委组暂时没有在此实验室的学长学姐，但是指南编委组搜集到了实验室的招生广告，从实验室本科毕业生去向和能得到亲自指导这一点来看还是很不错的，值得去深入了解一下，如果你对此实验室所作方向感兴趣的话可以去联系一下图中广告的学长哦\~如何深入了解实验室的科研方向可以参考文章《如何选择适合自己的方向and如何进组》，该实验室主页也有很多相关介绍
 
-{% content-ref url="jin-jie-pian/ke-yan-2023.10.17-geng-xin/ru-he-xuan-ze-shi-he-zi-ji-de-fang-xiang-and-ru-he-jin-zu-2023.5.31-geng-xin.md" %}
-[ru-he-xuan-ze-shi-he-zi-ji-de-fang-xiang-and-ru-he-jin-zu-2023.5.31-geng-xin.md](jin-jie-pian/ke-yan-2023.10.17-geng-xin/ru-he-xuan-ze-shi-he-zi-ji-de-fang-xiang-and-ru-he-jin-zu-2023.5.31-geng-xin.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/e73c21be2702757f802614c9861d60c (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
