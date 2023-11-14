@@ -98,6 +98,7 @@
 * [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
   * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
   * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
+* [👀 缺乏科研项目经历？看这里（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong.md)
 
 ## 经验篇
 
