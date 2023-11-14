@@ -77,7 +77,11 @@
   * [💎 学长学姐的科研真经](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/README.md)
     * [从idea到论文——从0开始一段科研](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/cong-idea-dao-lun-wen-cong-0-kai-shi-yi-duan-ke-yan.md)
     * [论文写作技巧](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/lun-wen-xie-zuo-ji-qiao.md)
-* [🖊 考研（更新中）](jin-jie-pian/kao-yan-geng-xin-zhong.md)
+* [👀 缺乏科研项目经历？看这里（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/README.md)
+  * [MSRA项目机会（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/msra-xiang-mu-ji-hui-geng-xin-zhong.md)
+* [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
+  * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
+  * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
 * [🤔 选择实验室时应当关心的十个问题（2023.10.16更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
 * [😄 实验室介绍](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/README.md)
   * [BDAA\认知智能全国重点实验室——陈恩红教授实验室](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/bdaa-ren-zhi-zhi-neng-quan-guo-zhong-dian-shi-yan-shi-chen-en-hong-jiao-shou-shi-yan-shi.md)
@@ -95,10 +99,6 @@
   * [神经物理学与神经生理学实验室——毕国强教授与刘北明教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/shen-jing-wu-li-xue-yu-shen-jing-sheng-li-xue-shi-yan-shi-bi-guo-qiang-jiao-shou-yu-liu-bei-ming-jia.md)
   * [Wen Lab——温泉教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/wen-lab-wen-quan-jiao-shou-ke-ti-zu.md)
   * [高性能计算物理化学实验室——胡伟教授课题组](jin-jie-pian/shi-yan-shi-jie-shao-2023.4.18-geng-xin/gao-xing-neng-ji-suan-wu-li-hua-xue-shi-yan-shi-hu-wei-jiao-shou-ke-ti-zu.md)
-* [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
-  * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
-  * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
-* [👀 缺乏科研项目经历？看这里（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong.md)
 
 ## 经验篇
 
