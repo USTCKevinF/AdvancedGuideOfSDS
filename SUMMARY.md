@@ -5,6 +5,7 @@
 * [🥳 欢迎词](huan-ying-ci.md)
 * [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
+* [🔊 指南近期更新（2023.11.19更新）](zhi-nan-jin-qi-geng-xin-2023.11.19-geng-xin.md)
 
 ## ☕ 话题
 
@@ -79,7 +80,7 @@
     * [从idea到论文——从0开始一段科研](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/cong-idea-dao-lun-wen-cong-0-kai-shi-yi-duan-ke-yan.md)
     * [论文写作技巧](jin-jie-pian/ke-yan-2023.10.17-geng-xin/xue-chang-xue-jie-de-ke-yan-zhen-jing/lun-wen-xie-zuo-ji-qiao.md)
 * [👀 缺乏科研项目经历？看这里（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/README.md)
-  * [MSRA项目机会（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/msra-xiang-mu-ji-hui-geng-xin-zhong.md)
+  * [微软亚洲研究院项目（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/wei-ruan-ya-zhou-yan-jiu-yuan-xiang-mu-geng-xin-zhong.md)
 * [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
   * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
   * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
