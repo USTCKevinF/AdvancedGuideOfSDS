@@ -66,11 +66,11 @@ description: By——冯文俊
 
 * 在填写完个人基本信息之后，就需要填报志愿，在这里是可以填报三个志愿的
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 招生单位收到了你的志愿，便可以据此决定是否发出复试通知，由于最多只能填报三个志愿，故最多也只能接收到三个复试通知，你可以选择是否接受
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>收到复试通知的界面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>收到复试通知的界面</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption><p>复试通知详情界面</p></figcaption></figure>
 
