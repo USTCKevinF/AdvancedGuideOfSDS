@@ -12,6 +12,7 @@
 * [如果给你一颗后悔药...（更新中）](hua-ti/ju-feng-ka-hui.md)
 * [从科大到燕园——我的保外经历与大学体悟](hua-ti/cong-ke-da-dao-yan-yuan-wo-de-bao-wai-jing-li-yu-da-xue-ti-wu.md)
 * [我用四年时间，意识到了高中就意识到了的东西](hua-ti/wo-yong-si-nian-shi-jian-yi-shi-dao-le-gao-zhong-jiu-yi-shi-dao-le-de-dong-xi.md)
+* [2023届EE/CS/AI深造经验以及教训](hua-ti/2023-jie-eecsai-shen-zao-jing-yan-yi-ji-jiao-xun.md)
 
 ## 培养方案解析
 
@@ -82,6 +83,7 @@
 * [👀 缺乏科研项目经历？看这里（更新中）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/README.md)
   * [微软亚洲研究院项目](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/wei-ruan-ya-zhou-yan-jiu-yuan-xiang-mu.md)
   * [长三角研究型大学联盟教学实践基地共建共享项目](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/chang-san-jiao-yan-jiu-xing-da-xue-lian-meng-jiao-xue-shi-jian-ji-di-gong-jian-gong-xiang-xiang-mu.md)
+  * [腾讯2024课题实践项目（2024.1.24截止投递）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/teng-xun-2024-ke-ti-shi-jian-xiang-mu-2024.1.24-jie-zhi-tou-di.md)
 * [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
   * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
   * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
