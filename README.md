@@ -1,4 +1,8 @@
-# 1⃣ 前言
+# 1️⃣ 前言
+
+欢迎关注”进阶SDS”同名微信公众号与QQ公众号，获取指南最新文章与动态！
+
+<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 对于大数据学院的本科生来说，在日常的学习生活当中面临着以下几个现实问题：
 

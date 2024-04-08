@@ -1,7 +1,7 @@
 # Table of contents
 
-* [1⃣ 前言](README.md)
-* [2⃣ 第二版序](di-er-ban-xu.md)
+* [1️⃣ 前言](README.md)
+* [2️⃣ 第二版序](di-er-ban-xu.md)
 * [🥳 欢迎词](huan-ying-ci.md)
 * [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
@@ -69,7 +69,7 @@
   * [低成本-托福阅读训练方法与资源](jin-jie-pian/chu-guo-2023.6.5-geng-xin/di-cheng-ben-tuo-fu-yue-du-xun-lian-fang-fa-yu-zi-yuan.md)
 * [🎓 保研（2023.10.14更新）](jin-jie-pian/bao-yan-geng-xin-zhong.md)
   * [💯 保研关键时间节点](jin-jie-pian/bao-yan-2023.6.3-geng-xin/bao-yan-guan-jian-shi-jian-jie-dian.md)
-  * [‼ 一篇文章读懂保研（必须熟悉）](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-1.md)
+  * [‼️ 一篇文章读懂保研（必须熟悉）](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-1.md)
   * [🔊 别人不会告诉你的保研TIPS](jin-jie-pian/bao-yan-geng-xin-zhong/bao-yan-guan-jian-shi-jian-jie-dian-2.md)
 * [💻 实习 & 工作](jin-jie-pian/shi-xi-geng-xin-zhong/README.md)
   * [🧐 什么是实习](jin-jie-pian/shi-xi-geng-xin-zhong/shi-mo-shi-shi-xi.md)
@@ -84,7 +84,7 @@
   * [微软亚洲研究院项目](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/wei-ruan-ya-zhou-yan-jiu-yuan-xiang-mu.md)
   * [长三角研究型大学联盟教学实践基地共建共享项目](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/chang-san-jiao-yan-jiu-xing-da-xue-lian-meng-jiao-xue-shi-jian-ji-di-gong-jian-gong-xiang-xiang-mu.md)
   * [腾讯2024课题实践项目（2024.1.24截止投递）](jin-jie-pian/que-fa-ke-yan-xiang-mu-jing-li-kan-zhe-li-geng-xin-zhong/teng-xun-2024-ke-ti-shi-jian-xiang-mu-2024.1.24-jie-zhi-tou-di.md)
-* [↪ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
+* [↪️ 转专业相关（2023.10.20更新）](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/README.md)
   * [关于大二下非个性化转院](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-da-er-xia-fei-ge-xing-hua-zhuan-yuan.md)
   * [关于个性化大数据一些tips](jin-jie-pian/zhuan-zhuan-ye-xiang-guan-2023.10.20-geng-xin/guan-yu-ge-xing-hua-da-shu-ju-yi-xie-tips.md)
 * [🤔 选择实验室时应当关心的十个问题（2023.10.16更新）](jin-jie-pian/zi-xun-shi-yan-shi-shi-ying-dang-guan-xin-de-shi-ge-wen-ti-2023.3.31-geng-xin.md)
