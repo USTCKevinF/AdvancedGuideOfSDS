@@ -145,3 +145,4 @@
   * [2023年大数据学院实习秋招分享会](fu-lu/jing-yan-fen-xiang-hui-shi-pin-zheng-li-2023.5.13-geng-xin/2023-nian-da-shu-ju-xue-yuan-shi-xi-qiu-zhao-fen-xiang-hui.md)
 * [据峰咖会](fu-lu/ju-feng-ka-hui/README.md)
   * [2022年度据峰咖会](fu-lu/ju-feng-ka-hui/2022-nian-du-ju-feng-ka-hui.md)
+* [有用的资源](fu-lu/you-yong-de-zi-yuan.md)
