@@ -2,15 +2,11 @@
 description: 尽情交流吧！
 ---
 
-# 📬 提问箱 and 近期Q\&A
+# 📬 关注指南公众号获取最新动态并提问
 
-如果你有什么想问的问题或者对指南有什么建议，请通过这个链接或者扫描下图二维码尽情交流吧！~~不要问数学题怎么做~~，我们会寻找相关方向的前辈们尽力为大家进行回答。
+如果你有什么想问的问题或者对指南有什么建议，欢迎关注指南官方推流公众号“进阶SDS”并在后台交流。同时，指南的最新动态也会在公众号上同步更新！
 
-若出现吞回复的情况，也可以联系fengwenjun@mail.ustc.edu.cn进行提问\~
-
-{% embed url="https://pome.vip/Advance1" %}
-
-<figure><img src=".gitbook/assets/B2E323D9C86FF3AACA9ADA2C23AD8D2A.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 ## 近期Q\&A
 

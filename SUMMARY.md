@@ -1,17 +1,16 @@
 # Table of contents
 
-* [3️⃣ 第三版序](README.md)
-* [2️⃣ 第二版序](di-er-ban-xu.md)
-* [1️⃣ 前言](<README (1).md>)
+* [3️⃣ 3️⃣ 第三版序](README.md)
+* [2️⃣ 2️⃣ 第二版序](di-er-ban-xu.md)
+* [1️⃣ 1️⃣ 前言](<README (1).md>)
 * [🥳 欢迎词](huan-ying-ci.md)
-* [💡 指南食用方法(必看)](zhi-nan-shi-yong-fang-fa-bi-kan.md)
-* [📬 提问箱 and 近期Q\&A](ti-wen-xiang-and-jin-qi-qa.md)
-* [🔊 指南近期更新（2024.4.13更新）](zhi-nan-jin-qi-geng-xin-2024.4.13-geng-xin.md)
+* [💡 指南食用方法](zhi-nan-shi-yong-fang-fa-bi-kan.md)
+* [📬 关注指南公众号获取最新动态并提问](ti-wen-xiang-and-jin-qi-qa.md)
 
 ## ☕ 话题
 
-* [如果给你一颗后悔药...（更新中）](hua-ti/ju-feng-ka-hui.md)
 * [从科大到燕园——我的保外经历与大学体悟](hua-ti/cong-ke-da-dao-yan-yuan-wo-de-bao-wai-jing-li-yu-da-xue-ti-wu.md)
+* [如果给你一颗后悔药...（更新中）](hua-ti/ju-feng-ka-hui.md)
 * [我用四年时间，意识到了高中就意识到了的东西](hua-ti/wo-yong-si-nian-shi-jian-yi-shi-dao-le-gao-zhong-jiu-yi-shi-dao-le-de-dong-xi.md)
 * [2023届EE/CS/AI深造经验以及教训](hua-ti/2023-jie-eecsai-shen-zao-jing-yan-yi-ji-jiao-xun.md)
 
