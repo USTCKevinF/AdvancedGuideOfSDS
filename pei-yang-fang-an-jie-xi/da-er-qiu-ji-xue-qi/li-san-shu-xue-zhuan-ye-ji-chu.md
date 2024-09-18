@@ -33,6 +33,10 @@ layout: landing
 
 {% embed url="https://rec.ustc.edu.cn/share/195f1bf0-be47-11ed-a1e7-279623e9b0e1" %}
 
+24Fall课程主页：
+
+{% embed url="https://ustc-dm2024.github.io" %}
+
 ## 目录
 
 <details>
