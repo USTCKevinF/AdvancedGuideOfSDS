@@ -1,8 +1,8 @@
 # Table of contents
 
-* [💡 指南食用方法](README.md)
+* [4️⃣ 第四版序](README.md)
+* [💡 指南食用方法](<README (2).md>)
 * [更新公告](geng-xin-gong-gao.md)
-* [4️⃣第四版序](4-di-si-ban-xu.md)
 * [3️⃣ 第三版序](<README (1).md>)
 * [2️⃣ 第二版序](di-er-ban-xu.md)
 * [1️⃣ 前言](<README (1) (1).md>)

@@ -8,7 +8,14 @@ description: 本项目仓库 https://github.com/USTCKevinF/AdvancedGuideOfSDS
 
 > 在gitbook.com网站上利用github账号登录，fork USTCKevinF/AdvancedGuideOfSDS 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
 
-Tips：我们非常建议您在投稿前与我们取得联系QAQ
+Tips：
+
+* 我们非常建议您在投稿前与我们取得联系QAQ
+* 您可以自由选择稿件中是否署名or留下联系方式
+
+***
+
+如果你发现了指南中的问题（例如链接失效等），或对指南有一定建议，欢迎提出Issue
 
 联系方式
 

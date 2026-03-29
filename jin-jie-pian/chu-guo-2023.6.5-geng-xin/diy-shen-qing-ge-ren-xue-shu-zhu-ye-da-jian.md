@@ -70,7 +70,7 @@ description: By——19级少院金小龙
 
 #### 教程链接
 
-1. [https://www.zhihu.com/question/281476526/answer/2256232348](https://www.zhihu.com/question/281476526/answer/2256232348)，[https://github.com/zhoulvbang/zhoulvbang.github.io](https://github.com/zhoulvbang/zhoulvbang.github.io)，知乎答主超级懒的小周撰写的中文教程，非常详细，第一个推荐！
+1. [~~https://www.zhihu.com/question/281476526/answer/2256232348~~](https://www.zhihu.com/question/281476526/answer/2256232348)~~，~~[~~https://github.com/zhoulvbang/zhoulvbang.github.io~~](https://github.com/zhoulvbang/zhoulvbang.github.io)~~，知乎答主超级懒的小周撰写的中文教程，非常详细，第一个推荐！~~ （链接已失效）
 2. [https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)，手把手的英文博客
 3. [https://academicpages.github.io/](https://academicpages.github.io/)，academicpages最原始的github教程
 
@@ -87,7 +87,7 @@ description: By——19级少院金小龙
 3. [https://wowchemy.com/docs/content/publications/](https://wowchemy.com/docs/content/publications/)，模板使用文档，不会可以查！英文
 4. [https://github.com/wowchemy/starter-hugo-academic#fork-destination-box](https://github.com/wowchemy/starter-hugo-academic#fork-destination-box)，[https://academic-demo.netlify.app/](https://academic-demo.netlify.app/)，[https://github.com/tangjyan/zh-cn](https://github.com/tangjyan/zh-cn)，官方文档。
 5. [https://www.zhihu.com/question/281476526/answer/2359299936](https://www.zhihu.com/question/281476526/answer/2359299936)，[https://www.zhihu.com/question/281476526](https://www.zhihu.com/question/281476526)，较为详细的知乎教程，中文。
-6. [https://www.bilibili.com/video/BV1Gz4y1f7Qj/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=7cd55330e6609595be6c1939520e3bc8](https://www.bilibili.com/video/BV1Gz4y1f7Qj/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=7cd55330e6609595be6c1939520e3bc8)，b站up分享，中文。
+6. [https://www.bilibili.com/video/BV1Gz4y1f7Qj/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=7cd55330e6609595be6c1939520e3bc8](https://www.bilibili.com/video/BV1Gz4y1f7Qj/?spm_id_from=333.337.search-card.all.click\&vd_source=7cd55330e6609595be6c1939520e3bc8)，b站up分享，中文。
 
 ### 优秀网站分享
 
