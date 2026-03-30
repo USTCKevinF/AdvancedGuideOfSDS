@@ -1,7 +1,7 @@
 # Table of contents
 
 * [4️⃣ 第四版序](README.md)
-* [💡 指南食用方法](<README (2).md>)
+* [💡 指南食用方法](zhi-nan-shi-yong-fang-fa-bi-kan.md)
 * [更新公告](geng-xin-gong-gao.md)
 * [3️⃣ 第三版序](<README (1).md>)
 * [2️⃣ 第二版序](di-er-ban-xu.md)
