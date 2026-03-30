@@ -1,11 +1,15 @@
 # Table of contents
 
-* [3️⃣ 3️⃣ 第三版序](README.md)
-* [2️⃣ 2️⃣ 第二版序](di-er-ban-xu.md)
-* [1️⃣ 1️⃣ 前言](<README (1).md>)
-* [🥳 欢迎词](huan-ying-ci.md)
+* [4️⃣ 第四版序](README.md)
 * [💡 指南食用方法](zhi-nan-shi-yong-fang-fa-bi-kan.md)
-* [📬 关注指南公众号获取最新动态并提问](ti-wen-xiang-and-jin-qi-qa.md)
+* [更新公告](geng-xin-gong-gao.md)
+* [3️⃣ 第三版序](<README (1).md>)
+* [2️⃣ 第二版序](di-er-ban-xu.md)
+* [1️⃣ 前言](<README (1) (1).md>)
+* [🥳 欢迎词](huan-ying-ci.md)
+* [📬 关注蜗壳进阶联盟公众号获取最新动态并提问](ti-wen-xiang-and-jin-qi-qa.md)
+* [❓近期Q\&A](jin-qi-qa.md)
+* [如何提交内容](ru-he-ti-jiao-nei-rong.md)
 
 ## ☕ 话题
 
