@@ -1,8 +1,10 @@
----
-description: 归档
----
-
 # ❓近期Q\&A
+
+你也有疑惑的问题？欢迎填写下方问卷，我们会挑选具有代表性的问题进行回答
+
+{% embed url="https://hcnkt1eaf3wd.feishu.cn/share/base/form/shrcnGUp54dw9nIqCztkTVmZX6b" %}
+
+***
 
 **Q：学长学姐，我想问一下到底如何决定是否出国，特别的对一些绩点不高的人群？**
 
