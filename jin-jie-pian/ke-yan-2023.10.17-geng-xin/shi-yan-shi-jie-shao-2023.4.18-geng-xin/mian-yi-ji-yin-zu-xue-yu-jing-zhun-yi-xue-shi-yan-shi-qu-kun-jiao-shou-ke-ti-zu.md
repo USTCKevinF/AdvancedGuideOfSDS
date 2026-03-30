@@ -12,7 +12,7 @@
 
 **微信公众号**
 
-![](<../../.gitbook/assets/image (14) (1) (1).png>)
+![](<../../../.gitbook/assets/image (14) (1) (1).png>)
 
 ## 研究方向
 
@@ -31,4 +31,3 @@
 个人主页：
 
 {% embed url="https://biomed.ustc.edu.cn/2021/0825/c31896a570535/page.htm" %}
-

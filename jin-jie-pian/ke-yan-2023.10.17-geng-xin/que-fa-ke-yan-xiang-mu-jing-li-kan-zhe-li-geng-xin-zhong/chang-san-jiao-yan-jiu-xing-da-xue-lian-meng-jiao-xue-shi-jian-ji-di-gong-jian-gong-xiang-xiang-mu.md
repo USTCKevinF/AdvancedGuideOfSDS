@@ -12,7 +12,7 @@ description: By——归正涛
 
 {% embed url="https://www.teach.ustc.edu.cn/category/notice/notice-info" %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 项目介绍
 
