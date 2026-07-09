@@ -38,6 +38,7 @@
   * [数据库系统概论（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-ku-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
   * [数据分析与实践（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-fen-xi-yu-shi-jian-zhuan-ye-he-xin.md)
 * [大三秋季学期](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/README.md)
+  * [算法基础（专业基础）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/suan-fa-ji-chu-zhuan-ye-ji-chu.md)
   * [机器学习概论（专业核心）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/ji-qi-xue-xi-gai-lun-zhuan-ye-he-xin.md)
   * [算法基础（专业核心）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/suan-fa-ji-chu-zhuan-ye-he-xin.md)
   * [运筹学（专业核心）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/yun-chou-xue-zhuan-ye-he-xin.md)
