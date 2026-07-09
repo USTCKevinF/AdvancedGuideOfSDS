@@ -27,6 +27,7 @@
   * [离散数学（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/li-san-shu-xue-zhuan-ye-ji-chu.md)
   * [数据结构（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/shu-ju-jie-gou-zhuan-ye-ji-chu.md)
   * [几何学基础（专业选修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-he-xue-ji-chu-zhuan-ye-xuan-xiu.md)
+  * [人工智能与机器学习基础](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ren-gong-zhi-neng-yu-ji-qi-xue-xi-ji-chu.md)
 * [大二春季学期](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/README.md)
   * [人工智能基础（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ren-gong-zhi-neng-ji-chu-zhuan-ye-xuan-xiu.md)
   * [人工智能原理与技术（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ren-gong-zhi-neng-ji-chu-zhuan-ye-xuan-xiu-1.md)
