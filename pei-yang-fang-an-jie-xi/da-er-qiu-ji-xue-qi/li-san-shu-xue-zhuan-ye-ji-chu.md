@@ -3,7 +3,7 @@ description: 学分：4.0
 ---
 
 # 离散数学（专业基础）
-Represent by 沫影.（欢迎vx扩列：D_Chloroplast）
+Written by 沫影.（欢迎vx扩列：D_Chloroplast）
 
 ### Part 1 课程简介
 
