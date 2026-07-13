@@ -30,13 +30,12 @@ description: 学分：3.0
 
 <summary>大数据算法教学大纲</summary>
 
-#### Dimension Reduction <a href="#anonymous_element_9" id="anonymous_element_9"></a>
+**Dimension Reduction**
 
-#### Streaming and Sketching Algorithms <a href="#anonymous_element_18" id="anonymous_element_18"></a>
+**Streaming and Sketching Algorithms**
 
-#### Machine Learning <a href="#anonymous_element_27" id="anonymous_element_27"></a>
+**Machine Learning**
 
-#### Clustering <a href="#anonymous_element_34" id="anonymous_element_34"></a>
+**Clustering**
 
 </details>
-

@@ -4,7 +4,7 @@ description: 学分：2.0
 
 # 数理方程B（专业选修）
 
-<figure><img src="../../.gitbook/assets/数理方程.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/复变函数.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure>
 
 ## 课程简介
 
@@ -42,7 +42,4 @@ description: 学分：2.0
 
 狄拉克函数
 
-
-
 </details>
-
