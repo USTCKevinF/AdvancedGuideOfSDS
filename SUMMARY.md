@@ -36,7 +36,7 @@
   * [数理方程B（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-li-fang-chengbzhuan-ye-xuan-xiu.md)
   * [电子线路（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/dian-zi-xian-lu-zhuan-ye-xuan-xiu.md)
   * [信号与系统（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/xin-hao-yu-xi-tong-zhuan-ye-xuan-xiu.md)
-  * [数据库系统概论（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-ku-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
+  * [数据库系统概论（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-ku-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
   * [数据分析与实践（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-fen-xi-yu-shi-jian-zhuan-ye-he-xin.md)
 * [大三秋季学期](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/README.md)
   * [机器学习概论（专业核心）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/ji-qi-xue-xi-gai-lun-zhuan-ye-he-xin.md)
