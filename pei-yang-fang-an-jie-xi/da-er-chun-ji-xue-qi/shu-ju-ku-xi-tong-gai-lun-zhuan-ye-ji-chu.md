@@ -72,7 +72,7 @@ Represent by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 当然，这么大的工作量没有AI大概率是无法准时搞定的，所以该出手时就得出手。Vibe工具选择自己趁手的即可。
 
-黄振亚老师特别强调：本课程不报销Vibe Coding所用的Token
+黄振亚老师特别强调：本课程不报销Vibe Coding所用的Token。
 
 ## 给分
 
