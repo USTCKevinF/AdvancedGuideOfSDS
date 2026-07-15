@@ -4,7 +4,7 @@ description: 学分：3.0
 
 # 数据分析与实践（专业核心）
 
-Represent by Wanglulu：wanglulu114514@mail.ustc.edu.cn
+Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 <figure><img src="../../.gitbook/assets/O1CN010BiqYX1m9kJiiGyrB_!!2455124912.webp" alt=""><figcaption><p>课程教材</p></figcaption></figure>
 

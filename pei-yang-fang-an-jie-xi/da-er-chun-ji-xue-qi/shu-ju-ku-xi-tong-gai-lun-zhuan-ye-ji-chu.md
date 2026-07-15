@@ -4,7 +4,7 @@ description: 学分：3.5
 
 # 数据库系统概论（专业核心）
 
-Represent by Wanglulu：wanglulu114514@mail.ustc.edu.cn
+Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 <div align="center"><figure><img src="../../.gitbook/assets/OIP.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure></div>
 

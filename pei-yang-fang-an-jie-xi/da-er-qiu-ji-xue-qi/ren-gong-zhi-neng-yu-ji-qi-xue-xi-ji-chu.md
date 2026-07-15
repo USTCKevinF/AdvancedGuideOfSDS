@@ -4,7 +4,7 @@ description: 学分4.0
 
 # 人工智能与机器学习基础（专业核心）
 
-Represent by Wanglulu：wanglulu114514@mail.ustc.edu.cn
+Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 ### 一、课程定位
 
