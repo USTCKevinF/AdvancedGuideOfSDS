@@ -6,7 +6,7 @@ description: 学分：3.5
 
 Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
-<div align="center"><figure><img src="../../.gitbook/assets/OIP.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/数据库.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure></div>
 
 ## 课程简介
 

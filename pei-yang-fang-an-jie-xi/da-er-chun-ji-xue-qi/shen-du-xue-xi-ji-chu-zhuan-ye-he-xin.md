@@ -4,7 +4,7 @@ description: Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 # 深度学习基础（专业核心）
 
-<figure><img src="../../.gitbook/assets/OIP (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/深度学习.jpg" alt=""><figcaption></figcaption></figure>
 
 这门课不需要教材。深度学习的相关教材很多，如有需要可以自行选择。
 
