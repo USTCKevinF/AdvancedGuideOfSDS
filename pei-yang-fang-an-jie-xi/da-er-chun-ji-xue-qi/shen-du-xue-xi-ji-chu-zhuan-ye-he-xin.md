@@ -22,7 +22,7 @@ description: Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 ## 课堂概况
 
-2026春季开设两个平行课堂，分别由冯福利、王文杰老师，何向南讲授。冯福利班的PPT继承自计算机学院连德富、王皓老师开设的同内容课程并做了部分调整。然而根据某位同学的描述，这份PPT的内容似乎大量来自一本名叫 [_Probabilistic Machine Learning： An Introduction_](../../geng-xin-gong-gao.md) 的教材，有条件的同学可以试试用教材自学。
+2026春季开设两个平行课堂，分别由冯福利、王文杰老师，何向南讲授。冯福利班的PPT继承自计算机学院连德富、王皓老师开设的同内容课程并做了部分调整。然而根据某位同学的描述，这份PPT的内容似乎大量来自一本名叫 [_Probabilistic Machine Learning： An Introduction_](https://icourse.club/course/26300/#review-104655) 的教材，有条件的同学可以试试用教材自学。
 
 课程从深度学习的定义及其与机器学习之间的区别出发，以神经网络为原点，讲授FNN、CNN、RNN、Resnet、注意力机制、Transformer、图神经网络、自监督学习、知识增强、因果启发等深度学习所用的方法，并介绍了大量大语言模型、生成式模型等相关前沿内容。
 
