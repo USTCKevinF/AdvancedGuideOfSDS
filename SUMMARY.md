@@ -31,7 +31,7 @@
   * [计算系统概论（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-suan-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
   * [电磁学C（物理通修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/dian-ci-xuecwu-li-tong-xiu.md)
   * [大学物理-综合实验B（物理通修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/da-xue-wu-li-zong-he-shi-yanbwu-li-tong-xiu.md)
-  * [数据结构（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/shu-ju-jie-gou-zhuan-ye-ji-chu.md)
+  * [数据结构A（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/shu-ju-jie-gou-zhuan-ye-ji-chu.md)
   * [几何学基础（专业选修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-he-xue-ji-chu-zhuan-ye-xuan-xiu.md)
   * [人工智能与机器学习基础（专业核心）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ren-gong-zhi-neng-yu-ji-qi-xue-xi-ji-chu.md)
 * [大二春季学期](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/README.md)
