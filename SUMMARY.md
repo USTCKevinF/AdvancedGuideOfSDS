@@ -67,6 +67,7 @@
   * [数字图像处理（专业选修）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/fei-can-shu-tong-ji-zhuan-ye-xuan-xiu-1.md)
 * [大四秋季学期](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/README.md)
   * [大数据系统及综合实验（专业核心）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/da-shu-ju-xi-tong-ji-zong-he-shi-yan-zhuan-ye-he-xin.md)
+  * [计算机视觉（专业选修）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/ji-suan-ji-shi-jue-zhuan-ye-xuan-xiu.md)
 
 ## 进阶篇
 
