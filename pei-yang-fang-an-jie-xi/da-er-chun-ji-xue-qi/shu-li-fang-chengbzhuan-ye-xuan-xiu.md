@@ -4,27 +4,37 @@ description: 学分：2.0
 
 # 数理方程B（专业选修）
 
-<figure><img src="../../.gitbook/assets/数理方程.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/复变函数.jpg" alt=""><figcaption><p>课程教材</p></figcaption></figure>
 
-## 课程简介
+#### 课程简介
 
-本课程主要内容包括偏微分方程的基本概念、三类典型方程的导出与定解问题、特征线积分法、分离变量法、贝塞尔函数和勒让德函数及应用、格林函数法、积分变换法等。简而言之，就是学习不同微分方程的解法。
+大二秋专业基础课程，2.0学分，教材为严镇军的《数学物理方法》，需要有数学分析B1、B2和复变函数B的前置知识。
 
-## 前置知识涉及的课程
+主要的教学内容为：
 
-数学分析、复变函数
+* 三类典型的偏微分方程（波动方程、扩散方程、Laplace 方程）、定解条件和定解问题、叠加原理、齐次化原理
+* 分离变量法、Sturm-Liouville 理论
+* Bessel 函数、Bessel 方程、Legendre 函数、Legendre 方程与 Fourier-Legendre 展开
+* Fourier 变换、Laplace 变换求解 PDE
+* 基本解法求解 PDE
 
-## 往年经验
+其中 Laplace 变换求解 PDE、含时的基本解法一般不在考点内，推荐参考数理方程A的教材——季孝达的《数学物理方程》进行学习。
 
-与复变函数的学习方法基本一致，作业及考试的题型比较固定且直接（解各种偏微分方程），拿到每道题后基本上就能想到解答思路，但前提是需要准确记忆各种算法和熟练掌握各定理的直接运用。特别难的公式不需要记忆，考卷上会给提示。该课程学习的主要困难在于：计算难度非常大和计算过程繁琐，特别是在后期涉及特殊函数、傅立叶变换和拉普拉斯变换等，计算时一定要细心。考前可以每个知识点拿几道方程练练手，训练时细致一点，不要投机取巧，讲究计算准确度。该课程对本专业同学无较大裨益，而且学习过程较为吃力，并不推荐大家尝试，把精力留在更感兴趣的课上。
+#### 往年经验
 
-## 与后续课程的联系
+与复变函数类似，只需要掌握各类方程的计算方法与解法的使用（积分变换法与基本解法），无需掌握证明。主要考察重点为分离变量法、齐次化原理、叠加原理、固有值问题的求解、S-L 定理的运用、特殊函数方程的求解（Bessel方程、Legendre方程）、特殊函数的性质运用、Fourier 变换求解方程和基本解求解方程，计算量极大，且容易出现计算错误，建议通过练习往年卷、做习题熟悉计算流程。
 
-与本专业课程无较大联系，学习本课程之后可以更好理解量子物理。
+#### 与后续课程的关系
 
-## 课程资源
+量子物理中求解薛定谔方程时会使用到分离变量法。
 
-{% embed url="https://rec.ustc.edu.cn/share/95260ab0-be48-11ed-abf8-7f19d6865034" %}
+### 课程资源
+
+教材链接：[https://pan.ustc.edu.cn/share/index/b7b44a9cb8464dbbafc9](https://pan.ustc.edu.cn/share/index/b7b44a9cb8464dbbafc9)
+
+《数学物理方程》：[https://pan.ustc.edu.cn/share/index/147ba2e50cd24d2ba7d7](https://pan.ustc.edu.cn/share/index/147ba2e50cd24d2ba7d7)
+
+资料链接：[https://pan.ustc.edu.cn/share/index/3ed97afb10744b8cba67](https://pan.ustc.edu.cn/share/index/3ed97afb10744b8cba67)，[https://pan.ustc.edu.cn/share/index/721c17a1cc4a4714be1f](https://pan.ustc.edu.cn/share/index/721c17a1cc4a4714be1f)
 
 ## 目录
 
@@ -42,7 +52,4 @@ description: 学分：2.0
 
 狄拉克函数
 
-
-
 </details>
-
