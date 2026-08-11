@@ -39,6 +39,7 @@
   * [人工智能原理与技术（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ren-gong-zhi-neng-ji-chu-zhuan-ye-xuan-xiu-1.md)
   * [随机过程B（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/sui-ji-guo-chengbzhuan-ye-ji-chu.md)
   * [计算方法（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ji-suan-fang-fa-zhuan-ye-ji-chu.md)
+  * [量子物理（物理通修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/liang-zi-wu-li-wu-li-tong-xiu.md)
   * [数理方程B（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-li-fang-chengbzhuan-ye-xuan-xiu.md)
   * [电子线路（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/dian-zi-xian-lu-zhuan-ye-xuan-xiu.md)
   * [信号与系统（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/xin-hao-yu-xi-tong-zhuan-ye-xuan-xiu.md)
