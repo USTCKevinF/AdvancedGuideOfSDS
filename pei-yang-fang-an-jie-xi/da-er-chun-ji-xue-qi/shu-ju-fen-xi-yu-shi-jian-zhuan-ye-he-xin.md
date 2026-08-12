@@ -2,7 +2,7 @@
 description: 学分：3.0
 ---
 
-# 数据分析与实践（专业核心）
+# 数据分析及实践（专业核心）
 
 Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
@@ -105,6 +105,8 @@ Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 课堂上涉及数据库的内容都可以不听，因为数据库系统概论会讲。
 
 出分非常慢，不建议急需学分的同学选修/重修。
+
+这是我给这门课写的评课，里面有一份叫做《AIDS课堂实践学导论》的文件，大家可以看看：[https://icourse.club/course/24511/#review-102091](https://icourse.club/course/24511/#review-102091)
 
 ## 老学长留下的链接
 
