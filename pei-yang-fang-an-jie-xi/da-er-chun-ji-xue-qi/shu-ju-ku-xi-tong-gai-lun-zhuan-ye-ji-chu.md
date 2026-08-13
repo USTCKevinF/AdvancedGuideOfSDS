@@ -88,6 +88,8 @@ Presented by Wanglulu：wanglulu114514@mail.ustc.edu.cn
 
 小测有时候会拖堂而且拖的非常长。
 
+出分非常慢，不建议急需学分的同学选修/重修。
+
 ## 老学长留下的链接
 
 {% embed url="https://rec.ustc.edu.cn/share/b227a150-be47-11ed-ba06-1730c306a667" %}
