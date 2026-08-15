@@ -22,6 +22,7 @@
 
 * [大一秋季学期](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/README.md)
   * [数学分析B1（数学通修）](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/shu-xue-fen-xi-b1-shu-xue-tong-xiu.md)
+  * [现代信息技术概览（专业选修）](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/xian-dai-xin-xi-ji-shu-gai-lan-zhuan-ye-xuan-xiu.md)
 * [大一春季学期](pei-yang-fang-an-jie-xi/da-yi-chun-ji-xue-qi/README.md)
   * [数学分析B2（数学通修）](pei-yang-fang-an-jie-xi/da-yi-chun-ji-xue-qi/shu-xue-fen-xi-b2-shu-xue-tong-xiu.md)
   * [大学物理-基础实验（物理通修）](pei-yang-fang-an-jie-xi/da-yi-chun-ji-xue-qi/da-xue-wu-li-ji-chu-shi-yan-wu-li-tong-xiu.md)
@@ -69,6 +70,7 @@
 * [大四秋季学期](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/README.md)
   * [大数据系统及综合实验（专业核心）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/da-shu-ju-xi-tong-ji-zong-he-shi-yan-zhuan-ye-he-xin.md)
   * [计算机视觉（专业选修）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/ji-suan-ji-shi-jue-zhuan-ye-xuan-xiu.md)
+  * [脑机接口（专业选修）](pei-yang-fang-an-jie-xi/da-si-qiu-ji-xue-qi/nao-ji-jie-kou-zhuan-ye-xuan-xiu.md)
 
 ## 进阶篇
 
