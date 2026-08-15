@@ -61,7 +61,7 @@ layout: landing
 
 此外, 附录C的数据通路部分也非常重要, 经常会出现拿出一个命令, 问信号在整个图上是怎么传递的。
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ics_datapath.png" alt=""><figcaption></figcaption></figure>
 
 如果你更想花更多的精力在arch/system上, 那么不妨参考CSAPP或者其他相关的课程。 CSAPP内容更偏向软件, 也丰富, 会涉及到cache相关的内容, 指令集y-86相比LC-3更加接近真实场景。并且可以考虑后续继续选修计算机组成原理， 操作系统， 编译原理等课程。(虽然名字叫计算机系统导论, 但是最精神续作的课程居然是组成原理而不是操作, 好扭曲的关系)
 
