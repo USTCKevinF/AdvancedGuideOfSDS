@@ -29,7 +29,7 @@
 * [大二秋季学期](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/README.md)
   * [概率论与数理统计（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/gai-shuai-lun-yu-shu-li-tong-ji-zhuan-ye-ji-chu.md)
   * [复变函数B （专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/fu-bian-han-shub-zhuan-ye-ji-chu.md)
-  * [计算系统概论（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-suan-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
+  * [计算机系统概论A（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/ji-suan-xi-tong-gai-lun-zhuan-ye-ji-chu.md)
   * [电磁学C（物理通修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/dian-ci-xuecwu-li-tong-xiu.md)
   * [大学物理-综合实验B（物理通修）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/da-xue-wu-li-zong-he-shi-yanbwu-li-tong-xiu.md)
   * [数据结构A（专业基础）](pei-yang-fang-an-jie-xi/da-er-qiu-ji-xue-qi/shu-ju-jie-gou-zhuan-ye-ji-chu.md)
