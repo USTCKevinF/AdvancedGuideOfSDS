@@ -23,6 +23,7 @@
 * [大一秋季学期](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/README.md)
   * [数学分析B1（数学通修）](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/shu-xue-fen-xi-b1-shu-xue-tong-xiu.md)
   * [英语通修](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/ying-yu-tong-xiu.md)
+  * [计算机程序设计（计算机通修）](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/ji-suan-ji-cheng-xu-she-ji-ji-suan-ji-tong-xiu.md)
   * [现代信息技术概览（专业选修）](pei-yang-fang-an-jie-xi/da-yi-qiu-ji-xue-qi/xian-dai-xin-xi-ji-shu-gai-lan-zhuan-ye-xuan-xiu.md)
 * [大一春季学期](pei-yang-fang-an-jie-xi/da-yi-chun-ji-xue-qi/README.md)
   * [数学分析B2（数学通修）](pei-yang-fang-an-jie-xi/da-yi-chun-ji-xue-qi/shu-xue-fen-xi-b2-shu-xue-tong-xiu.md)
