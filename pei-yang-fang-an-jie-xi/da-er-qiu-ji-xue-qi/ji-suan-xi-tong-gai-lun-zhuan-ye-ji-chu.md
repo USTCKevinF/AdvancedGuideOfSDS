@@ -5,6 +5,8 @@ layout: landing
 
 # 计算机系统概论A（专业基础）
 
+——by 1/1723, 希望你永远不知道这串数字的含义
+
 <figure><img src="../../.gitbook/assets/ics.png" alt=""><figcaption><p>课程教材</p></figcaption></figure>
 
 ## 引言: 计算机系统概论A与秦始皇
