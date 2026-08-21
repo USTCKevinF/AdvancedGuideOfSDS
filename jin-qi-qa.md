@@ -30,4 +30,4 @@
 
 **A：** 指南编委组暂时没有在此实验室的学长学姐，但是指南编委组搜集到了实验室的招生广告，从实验室本科毕业生去向和能得到亲自指导这一点来看还是很不错的，值得去深入了解一下，如果你对此实验室所作方向感兴趣的话可以去联系一下图中广告的学长哦\~如何深入了解实验室的科研方向可以参考文章《如何选择适合自己的方向and如何进组》，该实验室主页也有很多相关介绍
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
