@@ -51,6 +51,7 @@
   * [数据分析及实践（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shu-ju-fen-xi-yu-shi-jian-zhuan-ye-he-xin.md)
   * [离散数学（专业基础）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/li-san-shu-xue-zhuan-ye-ji-chu.md)
   * [深度学习基础（专业核心）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/shen-du-xue-xi-ji-chu-zhuan-ye-he-xin.md)
+  * [计算机组成原理（专业选修）](pei-yang-fang-an-jie-xi/da-er-chun-ji-xue-qi/ji-suan-ji-zu-cheng-yuan-li-zhuan-ye-xuan-xiu.md)
 * [大三秋季学期](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/README.md)
   * [算法基础（专业基础）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/suan-fa-ji-chu-zhuan-ye-ji-chu.md)
   * [运筹学（专业核心）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/yun-chou-xue-zhuan-ye-he-xin.md)
