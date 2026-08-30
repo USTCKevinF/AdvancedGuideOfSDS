@@ -63,6 +63,7 @@
   * [计算机控制基础（专业选修）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/ji-suan-ji-kong-zhi-ji-chu.md)
   * [数字信号处理A（专业选修）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/shu-zi-xin-hao-chu-li-A-xuan-xiu.md)
   * [现代通信原理（专业选修）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/xian-dai-tong-xin-yuan-li-xuan-xiu.md)
+  * [操作系统（专业选修）](pei-yang-fang-an-jie-xi/da-san-qiu-ji-xue-qi/cao-zuo-xi-tong-zhuan-ye-xuan-xiu-1.md)
 * [大三春季学期](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/README.md)
   * [大数据算法（专业核心）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/da-shu-ju-suan-fa-zhuan-ye-he-xin.md)
   * [数学建模（专业基础）](pei-yang-fang-an-jie-xi/da-san-chun-ji-xue-qi/shu-xue-jian-mo-zhuan-ye-ji-chu.md)
